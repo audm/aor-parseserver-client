@@ -1,6 +1,6 @@
 {
   "name": "aor-parseserver-client",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Parse server client for admin-on-rest",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leperone/aor-parseserver-client.git"
+    "url": "git+https://github.com/audm/aor-parseserver-client.git"
   },
   "files": [
     "LICENSE",
@@ -25,9 +25,9 @@
   "author": "Vincenzo Lepera",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leperone/aor-parseserver-client/issues"
+    "url": "https://github.com/audm/aor-parseserver-client/issues"
   },
-  "homepage": "https://github.com/leperone/aor-parseserver-client#readme",
+  "homepage": "https://github.com/audm/aor-parseserver-client#readme",
   "dependencies": {
     "admin-on-rest": "^1.0.0"
   },
